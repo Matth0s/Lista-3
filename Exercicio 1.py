@@ -10,7 +10,7 @@ print("...................................................................... ")
 print("Esse programa mostra a tabela ASCII com inicio e fim escolhidos por")
 print("você\n")
 print("Para iniciar, digite tabela(x,y,z), onde x é o inicio da tabela, y é")
-print("o fim da tabela e z é o numero de linhas que cada pagina da tabela")
+print("o fim da tabela e z é o numero de linhas que cada pagina da tabela ")
 print("vai ter")
 print("...................................................................... \n")
 
